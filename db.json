@@ -1,11 +1,1 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{      "data": [        {          "like": 12        },        {          "laugh": 12        },        {          "love": 12        },        {          "bulb": 12        },        {          "wow": 12        },        {          "sad": 12 , "total":  123    }      ]    }
