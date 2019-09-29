@@ -5,21 +5,21 @@
         "like": 12
       },
       {
-        "laugh": 12
+        "laugh": 8
       },
       {
-        "love": 12
+        "love": 3
       },
       {
-        "bulb": 12
+        "bulb": 7
       },
       {
-        "wow": 12
+        "wow": 1
       },
       {
-        "sad": 12
+        "sad": 1
       }
     ],
-    "total": 123
+    "total": 32
   }
 }
