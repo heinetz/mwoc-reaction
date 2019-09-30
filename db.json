@@ -1,25 +1,8 @@
 {
-  "data": {
-    "buttons": [
-      {
-        "like": 12
-      },
-      {
-        "laugh": 8
-      },
-      {
-        "love": 3
-      },
-      {
-        "bulb": 7
-      },
-      {
-        "wow": 1
-      },
-      {
-        "sad": 1
-      }
-    ],
-    "total": 32
-  }
+  "love": 0,
+  "wow": 0,
+  "like": 0,
+  "laugh": 0,
+  "bulb": 0,
+  "sad": 0
 }
