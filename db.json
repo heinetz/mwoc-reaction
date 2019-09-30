@@ -1,8 +1,10 @@
 {
-  "love": 0,
-  "wow": 0,
-  "like": 0,
-  "laugh": 0,
-  "bulb": 0,
-  "sad": 0
+  "data": {
+    "love": 0,
+    "wow": 0,
+    "like": 0,
+    "laugh": 0,
+    "bulb": 0,
+    "sad": 0
+  }
 }
